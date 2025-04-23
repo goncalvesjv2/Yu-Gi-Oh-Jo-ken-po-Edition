@@ -1,9 +1,16 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# 🃏 Yu-Gi-Oh! Jo-Ken-Pô Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Este projeto é uma versão temática de pedra, papel e tesoura (Jo-Ken-Pô) com personagens do universo Yu-Gi-Oh!. Desenvolvido com HTML, CSS e JavaScript, o jogo traz uma experiência divertida e nostálgica com design estilizado.
 
-conceitos abordados:
+## 🧰 Tecnologias Utilizadas
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+- HTML5  
+- CSS3  
+- JavaScript
+
+## 📁 Estrutura do Projeto
+
+- `index.html`: Estrutura principal do jogo.
+- `style.css`: Estilos visuais da aplicação.
+- `script.js`: Lógica do jogo (escolha do jogador, resultado, pontuação).
+- `images/`: Imagens dos personagens e elementos do jogo.
